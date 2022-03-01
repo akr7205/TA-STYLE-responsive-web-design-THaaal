@@ -141,7 +141,7 @@ a{
 }
 .btn-primary
 {
-	padding: 5px 13px;
+	padding: 0.5rem 1rem;
     background: var(--secondry-color);
 }
 .btn-secondary{
