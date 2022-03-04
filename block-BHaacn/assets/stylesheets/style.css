@@ -513,7 +513,9 @@ background: #23347b;
     .mv-center{
         justify-content: center;
     }
-    
+    .line{
+        display: none;
+    }
     
     .hedaer-nav-list li {
         font-size: 1.1rem;
